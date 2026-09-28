@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sphoorthi 👋
 
-<!--
-**sphoorthi-munnangi/sphoorthi-munnangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data & Business Analyst
 
-Here are some ideas to get you started:
+I'm currently building my skills in data and business analytics and using GitHub to document my learning journey and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- SQL
+- Excel
+- Power BI
+- Python
+- Data Visualization
+- Business Analysis
+
+### Goals
+
+- Build practical data analysis projects
+- Develop strong SQL and visualization skills
+- Learn how to turn data into business insights
+- Build a professional analytics portfolio
+
+### Projects
+
+Projects coming soon as I continue learning!
